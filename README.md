@@ -1,6 +1,7 @@
 # UOA 2023 S1 stats220
 ## introduce to this repo
-This is a repo is about what i learned in stats 220 and a little introduction, I used [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)to help me complete this repo
+This is a repo is about what i learned in stats 220 and a little introduction, 
+my first project is ![index.html](file:///Users/wei/Desktop/stats%20220/project1/meme.%20R/index.html)
 
 ### About me
 Favorite thing
